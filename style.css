@@ -5,4 +5,6 @@
 .navbar ul{
 list-style-type: none;
 background-color: blueviolet;
+padding: 0px;
+margin: 0px;
 }
