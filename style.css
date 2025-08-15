@@ -1,3 +1,10 @@
 * {
     background-color: darkslategrey;
 }
+
+.navbar ul{
+    list-style-type: none;
+    background-color: darkslategray;
+    padding: 0px;
+    margin: 0px;
+}
