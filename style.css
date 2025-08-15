@@ -4,7 +4,20 @@ h1 {
 
 .navbar ul{
  list-style-type:none;
- background-color:#3baf6b;
+ background-color:#3595cc;
  margin: 0px;
  padding: 0px;
+ overflow: hidden;
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    color: white
+}
+
+.navbar li {
+    float: left;
+
 }
