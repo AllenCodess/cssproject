@@ -1,4 +1,4 @@
 nav, ul {
-    position: absolute;
+    position: fixed;
     bottom: 100px;
 }
