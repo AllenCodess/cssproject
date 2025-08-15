@@ -1,3 +1,10 @@
-.navbar {
+h1 {
+    text-align: center;
+}
+
+.navbar ul{
+ list-style-type:none;
  background-color:#3baf6b;
+ margin: 0px;
+ padding: 0px;
 }
