@@ -7,7 +7,7 @@ h1 {
     background-color: darkslategray;
     padding: 0px;
     margin: 0px;
-    top: 100;
+    float: left;
 }
 
 a {
