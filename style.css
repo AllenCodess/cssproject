@@ -2,7 +2,7 @@
     background-color: #648ec4;
 }
 
-.navbar {
-    background: crimson;
-    z-index: 1;
+.navbar ul{
+list-style-type: none;
+background-color: blueviolet;
 }
