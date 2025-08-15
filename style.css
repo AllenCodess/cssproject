@@ -1,6 +1,7 @@
 #header-img {
     width: 100%;
-    height: auto;
+    height: 100px;
+    background-repeat: repeat;
 
 }
 
